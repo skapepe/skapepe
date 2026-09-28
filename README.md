@@ -1,16 +1,13 @@
-## Hi there 👋
+## Sussana Kapepe
 
-<!--
-**skapepe/skapepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Data Analyst`**
 
-Here are some ideas to get you started:
+-Actuarial Science graduate with a keen interest in turning raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Currently working on building my data analysis portfolio by taking on real-world projects to help me gain hands-on experience.
+
+-Able to use Microsoft Excel and Power BI (Microsoft Certified) for data cleaning, analysis and interpretation.
+
+-Able to use SQL for querying and database management and learning Python programming along the way.
+
+I share my data analytics journey on LinkedIn (www.linkedin.com/in/sussana-kapepe) 
